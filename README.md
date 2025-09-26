@@ -1,3 +1,3 @@
 # Repository
 Yes, first time in github. getting onto things!
-Name - Ankush Das
+Name - Ankush Das / kush
